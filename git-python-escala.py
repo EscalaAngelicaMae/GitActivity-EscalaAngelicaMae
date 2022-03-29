@@ -1,3 +1,6 @@
 print ("Angelica Mae A. Escala")
 print ("Laon, Mogpog, Marinduque")
 print ("January 26, 2000")
+print ("School of Information and Computing Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("2nd Year Section B")
